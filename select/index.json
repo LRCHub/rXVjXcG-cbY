@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ヘヴンリィ",
   "base_artist": "藍月なくる",
-  "createdAt": "2025-12-24T12:25:26.867014Z",
+  "createdAt": "2026-03-20T11:34:07.044574Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "藍月なくる",
       "has_synced": false,
       "path": "select/pl_01_ヘヴンリィ_藍月なくる.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ヘヴンリィ",
+      "artist": "藍月なくる",
+      "has_synced": false,
+      "path": "select/localdb_01_ヘヴンリィ_藍月なくる.txt",
+      "repo_name": "rXVjXcG-cbY"
     }
   ]
 }
